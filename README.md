@@ -16,7 +16,7 @@ During this time period, the average total earned for urban cities was approxima
 <p align="center">
 <img src= "https://github.com/Shelka4444/PyBer_Analysis/blob/main/Analysis/Ride%20share%20df.png" alt="Ride Share Table" width=750 align="center">
 </p>
-
+The table above offers more nuances to the data for the whole of 2019. While the total fares for urban cities in 2019 far surpassed either suburban or rural areas, the average earned per driver in urban cities was less ($16.57) than either suburban ($39.50) or rural ($55.49) drivers. There were 1,625 rides in urban cities compared to suburban (625) and rural (125) cities with a corresponding number of drivers in each city types: urban (2,405 drivers), suburban (490 drivers), and rural (78). Subsequently, because there were more drivers per rides demanded in urban cities, the average fare per ride in urban areas was $24.53 compared to $30.97 for average fare per ride in suburban areas and $34.62 in more rural parts. Conversely, however, the average fare per driver was highest in rural cities at $55.49 per ride, followed by $39.50 in suburan cities, and $16.57 in urban cities.
 
 
 
