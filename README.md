@@ -4,4 +4,8 @@ The purpose of this analysis is to extract information in the ride-sharing data 
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
+<img src= "https://github.com/Shelka4444/PyBer_Analysis/blob/main/Analysis/Ride%20share%20df.png" alt="Ride Share Table" width=750>
+
+<img src="https://github.com/Shelka4444/PyBer_Analysis/blob/main/Analysis/Total_Fares_City_Type.png" alt="Ride Share Chart" width=750>
+
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
