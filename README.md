@@ -1,8 +1,8 @@
 # PyBer Analysis
-## Overview of the analysis: Explain the purpose of the new analysis.
+## Overview of the analysis:
 The purpose of this analysis is to extract information in the ride-sharing data provided by a private company. This dataset is from 2019, and contains information about city type (rural, suburban, and urban), fares, drivers, dates, and also the number of rides taken. Data was analyzed and presented in a series of charts which visually represent otherwise invisible trends throughout each locality. This information can then be used to develop nuanced business strategies to help the company achieve its goals. 
 
-## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Results:
 <p align="center">
 <img src="https://github.com/Shelka4444/PyBer_Analysis/blob/main/Analysis/Total_Fares.png" alt="Ride Share Chart" width=500>  
 </p>
@@ -16,9 +16,7 @@ During this time period, the average total earned for urban cities was approxima
 <p align="center">
 <img src= "https://github.com/Shelka4444/PyBer_Analysis/blob/main/Analysis/Ride%20share%20df.png" alt="Ride Share Table" width=750 align="center">
 </p>
-The table above offers more nuances to the data for the whole of 2019. While the total fares for urban cities in 2019 far surpassed either suburban or rural areas, the average earned per driver in urban cities was less ($16.57) than either suburban ($39.50) or rural ($55.49) drivers. There were 1,625 rides in urban cities compared to suburban (625) and rural (125) cities with a corresponding number of drivers in each city types: urban (2,405 drivers), suburban (490 drivers), and rural (78). Subsequently, because there were more drivers per rides demanded in urban cities, the average fare per ride in urban areas was $24.53 compared to $30.97 for average fare per ride in suburban areas and $34.62 in more rural parts. Conversely, however, the average fare per driver was highest in rural cities at $55.49 per ride, followed by $39.50 in suburan cities, and $16.57 in urban cities.
-
-
-
+The table above offers more nuances to the data for the whole of 2019. The total fares for urban cities in 2019 far surpassed either suburban or rural areas with a total of almost $40 million in urban cities, $19 million in suburban cities, and $4 million in rural cities. There were 1,625 rides in urban cities compared to suburban (625) and rural (125) cities with a corresponding number of drivers in each city types: urban (2,405 drivers), suburban (490 drivers), and rural (78). Subsequently, because there were more drivers per rides demanded in urban cities, the average fare per ride in urban areas was $24.53 compared to $30.97 for average fare per ride in suburban areas and $34.62 in more rural parts. Conversely, however, the average fare per driver was highest in rural cities at $55.49 per ride, followed by $39.50 in suburan cities, and $16.57 in urban cities.
                                                                                                                  
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+After considering the data analysis results, there are several recommendations which can be provided for addressing disparities among the city types. It would be useful to have also gather data insights about peak hours of travel, particularly in rural and suburban areas. It is possilbe that there is a demand for more ride shares at hours when there are not enough drivers available, and consequently the business is losing out on opportunities to gain more clients. Likewise, data about whether clients are regular, semi-regular, or infrequent riders will also provide information about the quality of service provided not only by individual drivers but also by the company as a whole. It is possible that there are hidden trends in this category of data which will highlight specific needs for each city type. Lastly, gathering data about transportation culture in various cities could also prove useful. For example, cities which have a more robust, commonly used public transportation system possibly have less need for ride-shares whereas locations where more residents drive infrequently may prefer outsourcing their transporation needs.
