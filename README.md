@@ -4,7 +4,7 @@ The purpose of this analysis is to extract information in the ride-sharing data 
 
 ## Results:
 <p align="center">
-<img src="https://github.com/Shelka4444/PyBer_Analysis/blob/main/Analysis/Total_Fares.png" alt="Ride Share Chart" width=500>  
+<img src="https://github.com/Shelka4444/PyBer_Analysis/blob/main/Analysis/PyBer_Fare_Summary.png" alt="Ride Share Chart" width=500>  
 </p>
 Examining the line chart, "Total Fares by City Type", it was evident that the urban cities consistently had a higher total fare amount than either suburban or rural cities, with suburban cities earning more than rural cities. From January through April 2019, the urban cities earned a total of 2x that of suburban cities and almost 10x that of their rural counterparts. 
 
